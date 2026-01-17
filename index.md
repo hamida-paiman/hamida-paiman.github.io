@@ -4,8 +4,6 @@ title: Hamida Paiman
 
 <div align="center">
 
-# Hamida Paiman  
-**Data Science • AI/ML • Healthcare Analytics**
 
 <a href="#-about-me">About</a> •
 <a href="#-experience--activities">Experience</a> •
