@@ -16,7 +16,7 @@
 
 
 
-Hi! I’m **Hamida**, a Data Science major with a minor in Health Administration, with strong interests in applying data, technology, and innovation to solve real-world problems—especially in healthcare, research, and social impact.
+Hi! I’m **Hamida**, a Data Science major with a minor in Health Administration, with strong interests in applying data, technology, and innovation to solve real-world problems, especially in healthcare, research, and social impact.
 
 Through my academic coursework and professional experiences, I have developed a strong foundation in machine learning, statistical modeling, and data analytics. As a Research Intern in a computational biology lab, I worked with real clinical and biological datasets, applied supervised learning techniques, and built predictive models to support cancer research and treatment analysis. This experience strengthened both my technical skills and my ability to work in research-driven, interdisciplinary environments.
 
