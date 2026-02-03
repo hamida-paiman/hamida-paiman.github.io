@@ -12,7 +12,7 @@
 
 ---
 
-##  About Me
+
 Hi! I’m **Hamida**, a Data Science major with a minor in Health Administration.
 
 I’m interested in **AI, machine learning, and healthcare analytics**, and I enjoy building projects with real-world impact.
