@@ -12,10 +12,13 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 40px; margin-top: 30px; margin-bottom: 40px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 50px; margin-top: 30px; margin-bottom: 50px; flex-wrap: wrap;">
 
-  <!-- Text Section -->
-  <div style="flex: 2; min-width: 250px;">
+  <!-- Text -->
+  <div style="flex: 1.7; min-width: 280px;">
+
+
+ </div>
 
 
 
@@ -31,13 +34,14 @@ I am passionate about continuous learning and enjoy combining data science, heal
 
 </div>
 
-  <!-- Image Section -->
-  <div style="flex: 1; text-align: center; min-width: 180px;">
+  <!-- Image -->
+  <div style="flex: 1.2; text-align: center; min-width: 220px;">
 
     <img src="profile.jpg"
-         width="190"
+         width="260"
          style="border-radius: 50%;
-                box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                border: 4px solid white;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
 
   </div>
 
