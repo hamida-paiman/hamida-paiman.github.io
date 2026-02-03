@@ -29,7 +29,7 @@ I am passionate about continuous learning and enjoy combining data science, heal
 
 
 
-</div>
+
 
 **Focus Areas**
 - Machine Learning & Statistical Modeling  
