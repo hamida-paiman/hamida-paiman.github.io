@@ -1,4 +1,4 @@
-# Hamida Paiman
+# About
 
 <div style="text-align:center; margin-top: 10px; margin-bottom: 25px;">
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 Hi! I’m **Hamida**, a Data Science major with a minor in Health Administration.
 
 I’m interested in **AI, machine learning, and healthcare analytics**, and I enjoy building projects with real-world impact.
