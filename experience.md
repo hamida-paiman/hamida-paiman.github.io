@@ -50,13 +50,13 @@ pdf to simplify office tasks flow and quick access to necessary information.
 
 ## Leadership Expereince
 ### RU-FYT Peer Leader Instructor
-****Rutgers Global-Office of Student Academic Support****<br>
+***Rutgers Global-Office of Student Academic Support***<br>
 Part-time | Aug 2024 - Nov 2025
 - Peer instructor of 18-25 new first-year students for a one credit, 80 mins course.
 - Managing, and grading students’ weekly assignments, and developing strong leadership skills.
 
 ### Orientation Leader
-****Rutgers Global-International Student and Scholar Services****<br>
+***Rutgers Global-International Student and Scholar Services***<br>
 Part-time | May 2023 - Jan 2026
 - Improved leadership skills working in a team of 40 members to manage International Student Orientation (ISO)
 with above 1000 new international students.
