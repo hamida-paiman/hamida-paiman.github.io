@@ -12,13 +12,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 50px; margin-top: 30px; margin-bottom: 50px; flex-wrap: wrap;">
 
-  <!-- Text -->
-  <div style="flex: 1.7; min-width: 280px;">
-
-
- </div>
 
 
 
@@ -32,18 +26,8 @@ I am currently completing a certificate in **Entrepreneurship**, which has stren
 
 I am passionate about continuous learning and enjoy combining data science, healthcare knowledge, and entrepreneurial thinking to create meaningful, scalable solutions. I am actively seeking opportunities in data science, analytics, and AI-driven research where I can contribute, grow, and make a positive impact.
 
-</div>
 
-  <!-- Image -->
-  <div style="flex: 1.2; text-align: center; min-width: 220px;">
 
-    <img src="profile.jpg"
-         width="260"
-         style="border-radius: 50%;
-                border: 4px solid white;
-                box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-
-  </div>
 
 </div>
 
