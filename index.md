@@ -11,7 +11,16 @@
 </div>
 
 ---
-
+<img src="profile.jpg"
+     alt="Hamida Paiman"
+     style="
+       float: right;
+       width: 320px;
+       max-width: 45%;
+       margin: 10px 0 20px 30px;
+       border-radius: 10px;
+       box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+     " />
 
 
 
@@ -26,7 +35,7 @@ I am currently completing a certificate in **Entrepreneurship**, which has stren
 
 I am passionate about continuous learning and enjoy combining data science, healthcare knowledge, and entrepreneurial thinking to create meaningful, scalable solutions. I am actively seeking opportunities in data science, analytics, and AI-driven research where I can contribute, grow, and make a positive impact.
 
-
+<div style="clear: both;"></div>
 
 
 
