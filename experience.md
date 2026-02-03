@@ -13,7 +13,7 @@
 ---
 
 ## Work Experience 
-###"AI for Good" Research Intern**
+### "AI for Good" Research Intern <br>
 **Rutgers Institute for Corporate Social Innovation**<br> 
 Part-time | Jan 2026 - Present
 - Conducting interdisciplinary research on ethical, social, and governance frameworks for responsible AI in sustainability and social innovation contexts.
