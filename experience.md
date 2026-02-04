@@ -61,3 +61,7 @@ Part-time | May 2023 - Jan 2026
 - Improved leadership skills working in a team of 40 members to manage International Student Orientation (ISO)
 with above 1000 new international students.
 - Gained great cross-cultural experience by talking and engaging with new international students.
+
+
+## Highlights
+
