@@ -65,3 +65,14 @@ with above 1000 new international students.
 
 ## Highlights
 
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:20px;">
+
+  <img src="image1.jpeg" style="width:260px; border-radius:10px; box-shadow:0 6px 15px rgba(0,0,0,0.15);" />
+
+  <img src="image2.JPG" style="width:260px; border-radius:10px; box-shadow:0 6px 15px rgba(0,0,0,0.15);" />
+
+  <img src="image3.jpg" style="width:260px; border-radius:10px; box-shadow:0 6px 15px rgba(0,0,0,0.15);" />
+  
+  <img src="image4.jpg" style="width:260px; border-radius:10px; box-shadow:0 6px 15px rgba(0,0,0,0.15);" />
+
+</div>
